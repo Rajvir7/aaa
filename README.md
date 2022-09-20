@@ -1,7 +1,8 @@
-# aaa
+#aaa
 
-###>Run:`git clone https://github.com/Rajvir7/aaa
+## Installation :
 
-cd aaa
+* `git clone https://github.com/Rajvir7/aaa`
+* `cd aaa`
 
-python p.py
+#### > Run : `python p.py`
